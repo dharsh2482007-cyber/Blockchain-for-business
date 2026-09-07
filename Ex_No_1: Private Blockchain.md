@@ -114,7 +114,11 @@ return name;
 ```
 OUTPUT
 # Deploying Transaction in Remix
-7
+
+<img width="1277" height="803" alt="Screenshot 2026-09-07 095919" src="https://github.com/user-attachments/assets/4fb3c8c8-4ca0-438c-8937-e41c27b76a8f" />
+
+<img width="1285" height="642" alt="image" src="https://github.com/user-attachments/assets/d0a1ef8d-8f4f-4e44-8612-b2e342051838" />
+
 # Contract Creation Output in Command Prompt
 <img width="1180" height="492" alt="image" src="https://github.com/user-attachments/assets/fc0eaa31-1340-4c3e-8410-3ca49a1f4dcd" />
 
